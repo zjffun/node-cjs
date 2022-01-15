@@ -1,0 +1,13 @@
+{
+  "name": "node-cjs",
+  "version": "1.0.0",
+  "exports": "./index.js",
+  "type": "module",
+  "types": "index.d.ts",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "repository": "git@github.com:zjffun/node-cjs.git",
+  "author": "JuFeng Zhang <zjffun@gmail.com>",
+  "license": "MIT"
+}
